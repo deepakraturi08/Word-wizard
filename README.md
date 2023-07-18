@@ -1,4 +1,4 @@
-a## Word Wizard
+## Word Wizard
 
 <b>Built with</b> 
 
@@ -19,4 +19,3 @@ a## Word Wizard
 <img src="two.jpg" alt="demo"/>
 
 
-# Word-wizard
